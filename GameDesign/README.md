@@ -65,8 +65,8 @@
 ### 普通
 1. 消耗(exhaust)：打出后，在这局游戏中把这张牌移除卡组
 - after played, remove this card from the deck, lasting only for this battle
-2. 熟练 (proficient)：打出后，在在这局游戏中，这张牌体力消耗值减一
-- after played, the cost of this card decrease by 1, lasting only for this battle
+2. 熟练 (proficient)：第二次及以上打出这张牌时候，获得额外效果
+- gain extra effect after played multiple times
 3. 无法打出 (unplayable)： 无法使用这张牌
 - can't play this card
 4. 虚无(ethereal)：在回合结束时候，消耗这张牌
