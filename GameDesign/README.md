@@ -34,12 +34,12 @@
 ### (二)持续类（效果受回合数影响）
 4. 振奋(excite)： 下回合多抽一张牌，持续x个回合  
 - draw one more card in the next turn, lasting for x turn 
-5. 幽灵化(intangible)： 将受到的伤害转化为1， 持续x个回合 
-- turn the damage taken into 1, lasting for x turn
+5. 幽灵化(intangible)： 将受到的伤害减少50%， 持续x个回合 
+- reduce 50% damage, lasting for x turn
 
 ### debuf 类
 ### （一）永久类
-1. 迟钝（languid）： 每有一点迟钝，卡牌造成的伤害数值减一 
+1. 迟钝（languid）：每有一点迟钝，卡牌造成的伤害数值减一 
 - every one languid makes the damage from cards decrease one
 2. 迟缓（sluggish）：每有一点迟缓，卡牌获得的格挡值减一 
 - every one sluggish makes the block from cards decrease one
@@ -57,7 +57,7 @@
 - disable the target to use skill cards, lasting for x turn
 8. 中毒 (posion)：在每个回合开始时，扣除x点HP
 - at the start of each turn, take x damage
-9. 流 血(blooding): 每次受到伤害时候，受到x点伤害
+9. 流血(blooding): 每次受到伤害时候，受到x点伤害
 - every time when attacked to lose Hp, take x damage
 10. 眩晕(stun): 无法行动，持续x回合
 - can't do anything, lasting for x turn
