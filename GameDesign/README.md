@@ -33,6 +33,7 @@
 - every one dexterity makes the block caused by cards increase one
 3. 闪避(dodge)： 将x次伤害转变成1 
 - turn the next damage taken into 1 for x times 
+- 人工制品(artifact)：抵消下x次受到的debuff
 
 ### (二)持续类（效果受回合数影响）
 4. 振奋(excite)： 下回合多抽一张牌，持续x个回合  
