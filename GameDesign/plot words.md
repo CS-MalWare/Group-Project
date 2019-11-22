@@ -34,4 +34,4 @@ Stuxnet(turn to I): Now its your turn. (Put up hands slowly)
 
 I: No! Geralt? But how can I can do anything?
 
-## Then 
+## Then a light beam shroud the main character. The main character disappeared in the air. And Stuxnet's attack missed. 
