@@ -43,9 +43,9 @@
 
 ### debuf 类
 ### （一）永久类
-1. 迟钝（languid）：每有一点迟钝，卡牌造成的伤害数值减一 
+1. 迟钝（languid）：每有一点迟钝，卡牌造成的伤害数值减一 (现已使用-1力量替代)
 - every one languid makes the damage from cards decrease one
-2. 迟缓（sluggish）：每有一点迟缓，卡牌获得的格挡值减一 
+2. 迟缓（sluggish）：每有一点迟缓，卡牌获得的格挡值减一 (现已使用-1敏捷替代)
 - every one sluggish makes the block from cards decrease one
 
 ### （一）持续类
