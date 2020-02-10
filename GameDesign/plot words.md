@@ -119,4 +119,39 @@ Talking to Merlin: Sorry, i can't give more help in your future fight. But i wil
 ### Then you can go to original forest => robot empire => Dragon Cave => Dark castle (3 guradian, 3 boss battle) => Orginal world.
 
 
-## After defeat the 3 guradian and get Merlin's equipment back.
+## After defeating the 3 guradian and get Merlin's equipment back.
+
+I: Merlin, i have got your equipment back. But i think i can't defeat the stuxnet just using them. 
+
+Merlin: Don't worry about that. Since you have defeated the 3 guardian, i have the chance to study on the origin and weakness of the stuxnet. Just give me serveral days, and i will try to exert my magic which can do damage to the stuxnet on them so that you can have the chance to defeat the stuxnet. 
+
+I: Ok, i will wait for the best preparation.
+
+
+## After 7 days. Merlin walked out of his room and he handed these equipment to you. 
+
+Merlin: I have tried my best to reform these equipment in order to deal damage to the stuxnet. There is serveral runes on it (console.log(error), ctl+C, try catch ...). You are bound to have the chance to defeat the stuxnet using these equipment!
+
+I: Oh, really? I can't wait to fight with it.
+
+Merlin: If you are ready to do the final battle, you can talk to me. And I will transfer you to your original world.
+
+### I am free to look around in the shelter. And now i can try to kill Eden(Pharmacist) Alex(Hammersmith) Simith(Businessman) to get all their things. (Eden: add 2 potion bags and you can get many potions, Alex:upgrade all your cards, Simith: get 3 lengendary cards) If you do that, although you can be stronger, you will come to the bad ending.
+
+## Chapter 3
+
+## Moly and I come back to the original world. The wolrd is all destroyed. You can see ruins and bodies everywhere, as well as many monsters. I go straight toward my castle. There is no life in this castle. The stuxnet is just sitting on the throne. I feel very angry. Then come into the fight.
+
+Bad ending: Because you kill the innocent people and possess all their things, you defeat the stuxnet easily. However, your soul was corrupted. You are immersed in the power, the power of dead stuxnet went into your body. 
+
+I: Giao! HHHHHHH, this is the beauty of power! I can't wait to destroy a world to test my power!
+
+Good ending: You and the stuxnet are 55开, you want to give up your own life to kill the stuxnet. However, Moly came out to use her body to guard you. Then your attack killed the stuxnet.
+
+Moly: I have helped you.... I am gald to help you a little in this battle.
+
+I: No! Moly!
+
+### Moly has no breath.
+
+After this battle. I convene the survived people together to rebuild the hometown. And I build a statue of Moly in front of the castle to remember the contribution of Moly and the people gave a hand to me. Finally, the empire restore its original appearance. All people have led a happy life.
