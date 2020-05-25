@@ -59,10 +59,9 @@ legendary(金色)
 - decrease the damage from cards by 25%, lasting for x turn
 5. 腐朽(erode)：从卡牌中获得的格挡数值减少1/3，持续x个回合
 - decrease the block from cards by 1/3, lasting for x turn 
-6. 缴械 (disarm)：无法使用攻击牌， 持续x个回合
-- disable the target to use attack cards, lasting for x turn
-7. 沉默（slience）：无法使用技能牌， 持续x个回合
-- disable the target to use skill cards, lasting for x turn
+6. 缴械 (disarm)：攻击时候有33%时候，伤害变为1， 持续x个回合
+- 
+
 8. 中毒 (posion)：在每个回合开始时，扣除x点HP
 - at the start of each turn, take x damage
 9. 流血(blooding): 每次受到伤害时候，受到x点伤害
@@ -75,12 +74,9 @@ legendary(金色)
 - after played, remove this card from the deck, lasting only for this battle
 2. 熟练 (proficient)：第二次及以上打出这张牌时候，获得额外效果
 - gain extra effect after played multiple times
-3. 无法打出 (unplayable)： 无法使用这张牌
-- can't play this card
 4. 虚无(ethereal)：在回合结束时候，消耗这张牌
 - at the end of this turn, exhaust this card
-5. 固有(innate)：在战斗开始的第一个回合，抽取这张牌
-- at the first turn of battle, draw this card
+
 
 ### 职业相关
 （一） 战士
@@ -88,18 +84,4 @@ legendary(金色)
 （二） 法师
 
 
-### 三、诅咒牌（通常污染卡组，给player造成麻烦）
-1. 粘液(mucus)（1） ： 消耗
-- exhaust after palyed
-2. decay(unplayable) : 回合末，收到两点伤害 
-- at the end of turn, take 2 damage
-3. amnesia(unplayable): 回合末，随机消耗一张牌 
-- at the end of term, exhaust one random card
-4. doubt(unplayable): 回合末，获得一回合虚弱 
-- at the end of term, gain 1 weak
-5. writhe(unplayable): 固有 
-- innate
-6. normality(unplayable)：当这张卡在手牌中时候，每回合至多打出3张牌 
-- when this card in hand, you can't play more than 3 cards in one turn
-7. worry(unplayable): 虚无
-- ethereal
+
